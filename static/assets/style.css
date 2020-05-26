@@ -1,6 +1,6 @@
 .index-nav .link-cls{
-	color: white;
+	color: white !important;
 }
 .link-cls{
-	font-size: 24px;
+	font-size: 24px !important;
 }
